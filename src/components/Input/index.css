@@ -1,0 +1,42 @@
+.app-container {
+  background-color: #f5d0fe;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.card-container {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 10px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.input {
+  padding: 8px;
+  border-radius: 3px;
+  border: 1px solid grey;
+}
+
+.btn {
+  color: #ffffff;
+  background-color: #d946ef;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-left: 5px;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.description {
+  color: #323f4b;
+}
